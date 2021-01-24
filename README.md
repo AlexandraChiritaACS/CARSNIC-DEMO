@@ -3,7 +3,7 @@
 **Carsnic** is a security system for parkings, based on rpitx from https://github.com/F5OEO/rpitx. The program is triggered by a camera which detects the actions of theftery.
 It generates a signal mirrored to the initial one in order to neutralize this effect. This is useful to prevent strangers from unlocking your car.
 
-Created by Alexandra Chirita. See Licence for using it.
+Created by Alexandra Chirita.
 
 # Installation and use
 
